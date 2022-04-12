@@ -6,7 +6,7 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color:#171617;
+    background-color:#000000;
      font-family: "Lato", Sans-Serif;    font-weight: bold;
   overflow:hidden;
 }
@@ -90,13 +90,13 @@ text {
   position: relative;
   left: 0%;
   top: 20%;
-  color: #FECEA8;
+  color: #f7ed94;
   font-family: "Pacifico";
   font-size: 5rem;
   text-align: center;
   padding-top: 6rem;
   animation: blinker 10s linear infinite;
-  text-shadow: 0px 0px 21px #E84A5F;
+  text-shadow: 0px 0px 21px #ffee57;
   transition: 1s ease;
   z-index: 300;
 }
@@ -114,7 +114,7 @@ p {
   margin: 0;
   outline: 0;
   font-size: 0.6rem;
-  color: #FFF4E1;
+  color: #f7ed94;
   background-color: transparent;
   text-align: center;
 }
